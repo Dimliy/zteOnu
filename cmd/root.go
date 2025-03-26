@@ -7,11 +7,6 @@ import (
 	"net"
 	"time"
 
-	"github.com/spf13/cobra"
-
-	"github.com/thank243/zteOnu/app/factory"
-	"github.com/thank243/zteOnu/app/telnet"
-	"github.com/thank243/zteOnu/version"
 )
 
 var (
