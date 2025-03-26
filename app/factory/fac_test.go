@@ -5,8 +5,6 @@ import (
 	"encoding/base64"
 	"fmt"
 	"testing"
-
-	"github.com/thank243/zteOnu/utils"
 )
 
 func TestNewDev(t *testing.T) {
